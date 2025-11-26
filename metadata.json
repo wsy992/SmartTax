@@ -1,0 +1,5 @@
+{
+  "name": "SmartCrossBorderTax",
+  "description": "A cross-border smart tax system demo featuring OCR simulation, process swimlanes, and risk analysis dashboards based on the DevSecOps and Agile delivery report.",
+  "requestFramePermissions": []
+}
